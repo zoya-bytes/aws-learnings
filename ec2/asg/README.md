@@ -14,3 +14,25 @@ S3 is the one of the oldest and used service of Amazon.This service enables the 
 
 Relational Database Service  solves relational database administration problem.
 "A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database. Each column in a table holds a certain kind of data and a field stores the actual value of an attribute. The rows in the table represent a collection of related values of one object or entity. Each row in a table could be marked with a unique identifier called a primary key, and rows among multiple tables can be made related using foreign keys. This data can be accessed in many different ways without reorganizing the database tables themselves."
+
+Shared Responsibility  Model
+Customer Responsibility for the Security In the Cloud
+
+1. Customer Data
+2. Platform, Applications, Identity and Access Management (IAM)
+3. Operating System, Network and Firewall Configuration
+4. Client-side data Encryption, Data Integrity Authentication
+5. Server-side Encryption (File System and/ or Data)
+6. Networking Traffic protection (Encryption, integrition, Identity)
+
+AWS Responsibility The security Of the Cloud
+
+1. Software
+2. Compute, Storage, Database, Networking
+3. Hardware/ AWS Global Infrastructure
+4. Regions, Availability Zones, Edge locations. 
+
+
+
+
+ 
