@@ -16,6 +16,9 @@ Relational Database Service  solves relational database administration problem.
 "A relational database is a collection of data items with pre-defined relationships between them. These items are organized as a set of tables with columns and rows. Tables are used to hold information about the objects to be represented in the database. Each column in a table holds a certain kind of data and a field stores the actual value of an attribute. The rows in the table represent a collection of related values of one object or entity. Each row in a table could be marked with a unique identifier called a primary key, and rows among multiple tables can be made related using foreign keys. This data can be accessed in many different ways without reorganizing the database tables themselves."
 
 Shared Responsibility  Model
+
+The Shared Responsibility Model is a security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment, including hardware, infrastructure, endpoints, data, configurations, settings, operating system (OS), network controls and access rights.
+
 Customer Responsibility for the Security In the Cloud
 
 1. Customer Data
@@ -33,6 +36,3 @@ AWS Responsibility The security Of the Cloud
 4. Regions, Availability Zones, Edge locations. 
 
 
-
-
- 
