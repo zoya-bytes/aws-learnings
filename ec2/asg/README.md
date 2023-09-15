@@ -33,6 +33,4 @@ AWS Responsibility The security Of the Cloud
 1. Software
 2. Compute, Storage, Database, Networking
 3. Hardware/ AWS Global Infrastructure
-4. Regions, Availability Zones, Edge locations. 
-
-
+4. Regions, Availability Zones, Edge locations.
